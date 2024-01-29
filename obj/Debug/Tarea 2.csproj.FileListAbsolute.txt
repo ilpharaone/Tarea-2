@@ -1,0 +1,7 @@
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\bin\Debug\Tarea 2.exe.config
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\bin\Debug\Tarea 2.exe
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\bin\Debug\Tarea 2.pdb
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\obj\Debug\Tarea 2.csprojAssemblyReference.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\obj\Debug\Tarea 2.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\obj\Debug\Tarea 2.exe
+C:\Users\emanu\Documents\Ingeniería Informática\Progra 2\Tarea 2\obj\Debug\Tarea 2.pdb
